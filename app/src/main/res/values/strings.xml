@@ -1,0 +1,36 @@
+
+<resources>
+
+<string name="app_name">Rick and Morty App</string>
+<string name="app_description">Explore the multiverse with Rick and Morty!</string>
+<string name="rick_sanchez">Rick Sanchez</string>
+<string name="morty_smith">Morty Smith</string>
+<string name="summer_smith">Summer Smith</string>
+<string name="beth_smith">Beth Smith</string>
+<string name="jerry_smith">Jerry Smith</string>
+<string name="abadango_cluster_princess">Abadango Cluster Princess</string>
+<string name="abradolf_lincler">Abradolf Lincler</string>
+<string name="adjudicator_rick">Adjudicator Rick</string>
+<string name="agency_director">Agency Director</string>
+<string name="alan_rails">Alan Rails</string>
+<string name="albert_einstein">Albert Einstein</string>
+<string name="alexander">Alexander</string>
+<string name="alien_googah">Alien Googah</string>
+<string name="alien_morty">Alien Morty</string>
+<string name="alien_rick">Alien Rick</string>
+<string name="amish_cyborg">Amish Cyborg</string>
+<string name="annie">Annie</string>
+<string name="antenna_morty">Antenna Morty</string>
+<string name="antenna_rick">Antenna Rick</string>
+<string name="ants_in_my_eyes_johnson">Ants in my Eyes Johnson</string>
+<string name="alive">Alive</string>
+<string name="dead">Dead</string>
+<string name="unknown">Unknown</string>
+<string name="human">Human</string>
+<string name="alien">Alien</string>
+<string name="robot">Robot</string>
+
+<string name="more_details">More Details</string>
+<string name="less_details">Less Details</string>
+
+</resources>
