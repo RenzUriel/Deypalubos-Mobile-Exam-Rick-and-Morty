@@ -1,7 +1,7 @@
 
 <resources>
 
-<string name="app_name">Rick and Morty App</string>
+<string name="app_name">MB2_Deypalubos</string>
 <string name="app_description">Explore the multiverse with Rick and Morty!</string>
 <string name="rick_sanchez">Rick Sanchez</string>
 <string name="morty_smith">Morty Smith</string>
